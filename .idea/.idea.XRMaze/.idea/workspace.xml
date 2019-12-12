@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a4fdd2d-5a04-415e-a12b-a19f08fd378a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Prefabs/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Prefabs/UI/Mobile.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Prefabs/UI/Universal.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Prefabs/UI/Universal/ScrollviewCanvas.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Prefabs/UI/Universal/ScrollviewCanvas.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Prefabs/UI/VR.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobbyMobile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobbyMobile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobbyVR.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobbyVR.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Scripts/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Scripts/UI/Mobile.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Master/Scripts/UI/VR.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.XRMaze/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.XRMaze/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.XRMaze/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.XRMaze/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobby.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobby.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Otto/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Otto/TestScenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Iiro/Scripts/JumpPadSpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Iiro/Scripts/JumpPadSpawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Iiro/Scripts/RoomAvailabilityChecker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Iiro/Scripts/RoomAvailabilityChecker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Iiro/Scripts/UI/ButtonBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Iiro/Scripts/UI/ButtonBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Master/Scenes/Multiplayer.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Master/Scenes/Multiplayer.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Master/Scenes/NetworkTesting.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Master/Scenes/NetworkTesting.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Master/Scenes/VRMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Master/Scenes/VRMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobby.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobby.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Master/Scripts/Network/RoomListing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Master/Scripts/Network/RoomListing.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Master/Scripts/Network/RoomListingMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Master/Scripts/Network/RoomListingMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/GameControllers/PhotonPlayer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <marker date="1572353843934" expanded="false" signature="6:113" ph="..." />
+                <marker date="1572353843934" expanded="true" signature="156:760" ph="{...}" />
+                <marker date="1572353843934" expanded="true" signature="292:679" ph="{...}" />
+                <marker date="1572353843934" expanded="true" signature="439:673" ph="{...}" />
+                <marker date="1572353843934" expanded="true" signature="737:758" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/GameControllers/PlayerMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding>
+                <marker date="1570106609386" expanded="false" signature="6:96" ph="..." />
+                <marker date="1570106609386" expanded="true" signature="141:1404" ph="{...}" />
+                <marker date="1570106609386" expanded="true" signature="347:454" ph="{...}" />
+                <marker date="1570106609386" expanded="true" signature="512:627" ph="{...}" />
+                <marker date="1570106609386" expanded="true" signature="541:621" ph="{...}" />
+                <marker date="1570106609386" expanded="true" signature="654:1227" ph="{...}" />
+                <marker date="1570106609386" expanded="true" signature="698:794" ph="{...}" />
+                <marker date="1570106609386" expanded="true" signature="841:936" ph="{...}" />
+                <marker date="1570106609386" expanded="true" signature="983:1080" ph="{...}" />
+                <marker date="1570106609386" expanded="true" signature="1127:1221" ph="{...}" />
+                <marker date="1570106609386" expanded="true" signature="1254:1402" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobby.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <marker date="1572599990531" expanded="false" signature="6:119" ph="..." />
+                <marker date="1572599990531" expanded="true" signature="173:2602" ph="{...}" />
+                <marker date="1572599990531" expanded="true" signature="383:587" ph="{...}" />
+                <marker date="1572599990531" expanded="true" signature="658:752" ph="{...}" />
+                <marker date="1572599990531" expanded="true" signature="801:1368" ph="{...}" />
+                <marker date="1572599990531" expanded="true" signature="1408:1575" ph="{...}" />
+                <marker date="1572599990531" expanded="true" signature="1655:1784" ph="{...}" />
+                <marker date="1572599990531" expanded="true" signature="1816:2096" ph="{...}" />
+                <marker date="1572599990531" expanded="true" signature="2176:2315" ph="{...}" />
+                <marker date="1572599990531" expanded="true" signature="2357:2521" ph="{...}" />
+                <marker date="1572599990531" expanded="true" signature="2579:2600" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Juho/Scripts/Maze/MazeValues.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+              <folding>
+                <marker date="1572352242349" expanded="false" signature="6:96" ph="..." />
+                <marker date="1572352242349" expanded="true" signature="153:1913" ph="{...}" />
+                <marker date="1572352242349" expanded="true" signature="166:251" ph="/* This script has all the values that need to be networked ... */" />
+                <marker date="1572352242349" expanded="true" signature="952:1224" ph="{...}" />
+                <marker date="1572352242349" expanded="true" signature="1308:1911" ph="{...}" />
+                <marker date="1572352242349" expanded="true" signature="1352:1585" ph="{...}" />
+                <marker date="1572352242349" expanded="true" signature="1598:1905" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonRoom.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <folding>
+                <marker date="1570101429734" expanded="true" signature="6:171" ph="..." />
+                <marker date="1570101429734" expanded="true" signature="242:2221" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="432:779" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="507:554" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="554:729" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="611:719" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="817:957" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="996:1140" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="1212:1261" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="1319:1340" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="1382:1484" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="1507:1641" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="1553:1584" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="1708:1842" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="1797:1836" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="1876:2219" ph="{...}" />
+                <marker date="1570101429734" expanded="true" signature="1887:2085" ph="/* Creates player network controller(?) but not player character ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/GameControllers/GameSetup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <marker date="1570105469243" expanded="false" signature="6:92" ph="..." />
+                <marker date="1570105469243" expanded="true" signature="132:391" ph="{...}" />
+                <marker date="1570105469243" expanded="true" signature="290:389" ph="{...}" />
+                <marker date="1570105469243" expanded="true" signature="330:383" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobbyVR.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0467F5C0-E463-4B2C-ACC5-F718CB71F056/ea/2417cd2f/Switch.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Iiro/Scripts/UI/ButtonBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FCB9DAC8-AE3A-4886-93B0-F4CD5B0DB0BE/7e/4ca3847a/Action.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Juho/Scripts/VR/JumpPad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PunClasses.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonNetwork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/GameControllers/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/GameControllers/PhotonPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Juho/Scripts/Maze/MazeValues.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobby.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Master/Scripts/VRPlayerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Juho/Scripts/Maze/MazeValues.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Ngoc/Scripts/PlaceTheBoard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/RoomListingMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/GameControllers/GameSetup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Juho/Scripts/Maze/MazeLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobbyMobile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Juho/Scripts/Maze/MazeCell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Juho/Scripts/Maze/MazeAlgorithm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.2.5f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ColorBlock.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonNetwork.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Master/Scripts/Network/GameControllers/GameSetup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Master/Scripts/Network/GameControllers/PhotonPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Juho/Scripts/Maze/MazeValues.cs" />
+        <option value="$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobby.cs" />
+        <option value="$PROJECT_DIR$/Assets/Iiro/Scripts/JumpPadSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Iiro/Scripts/UI/ButtonBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobby.cs" />
+        <option value="$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobbyMobile.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.XRMaze/.idea/indexLayout.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.XRMaze/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a4fdd2d-5a04-415e-a12b-a19f08fd378a" name="Default Changelist" comment="" />
+      <created>1570101929815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570101929815</updated>
+      <workItem from="1570101933958" duration="1593000" />
+      <workItem from="1572353893700" duration="2096000" />
+      <workItem from="1572599734997" duration="259000" />
+      <workItem from="1574155379093" duration="12658000" />
+      <workItem from="1574713815450" duration="4300000" />
+      <workItem from="1574756577373" duration="11479000" />
+      <workItem from="1575363285364" duration="3776000" />
+      <workItem from="1575629768329" duration="1158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7545000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25955734" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PunClasses.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2430">
+          <caret line="796" column="13" lean-forward="true" selection-start-line="796" selection-start-column="13" selection-end-line="796" selection-end-column="13" />
+          <folding>
+            <marker date="1571725594343" expanded="true" signature="0:444" ph="/* Wraps up smaller classes that don't need their own file. ... */" />
+            <marker date="1571725594343" expanded="true" signature="476:754" ph="/* \defgroup publicApi Public API ... */" />
+            <marker date="1571725594343" expanded="true" signature="806:41362" ph="{...}" />
+            <marker date="1571725594343" expanded="false" signature="819:1083" ph="..." />
+            <marker date="1571725594343" expanded="true" signature="1241:1253" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="1259:1412" ph="///Defines the OnPhotonSerializeView method to make it easy to implement correctly for observable scripts. ... " />
+            <marker date="1571725594343" expanded="true" signature="1448:3191" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="1463:3104" ph="/// Called by PUN several times per second, so that your script can write and read synchronization data for the P ... " />
+            <marker date="1571725594343" expanded="true" signature="3198:4189" ph="/// This interface is used as definition of all callback methods of PUN, except OnPhotonSerializeView. Preferably ... " />
+            <marker date="1571725594343" expanded="true" signature="4233:5695" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="4248:4809" ph="/// Called when another player requests ownership of a PhotonView from you (the current owner). ... " />
+            <marker date="1571725594343" expanded="true" signature="4900:5608" ph="/// Called when ownership of a PhotonView is transfered to another player. ... " />
+            <marker date="1571725594343" expanded="true" signature="5773:5843" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="5849:7001" ph="/// Defines an interface for object pooling, used in PhotonNetwork.Instantiate and PhotonNetwork.Destroy. ... " />
+            <marker date="1571725594343" expanded="true" signature="7037:8132" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="7052:7510" ph="/// Called to get an instance of a prefab. Must return valid, disabled GameObject with PhotonView. ... " />
+            <marker date="1571725594343" expanded="true" signature="7608:8081" ph="/// Called to destroy (or just return) the instance of a prefab. It's disabled and the pool may reset and cache i ... " />
+            <marker date="1571725594343" expanded="true" signature="8139:8287" ph="/// This class adds the property photonView, while logging a warning when your game still uses the networkView. ... " />
+            <marker date="1571725594343" expanded="true" signature="8337:9201" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="8471:8922" ph="///A cached reference to a PhotonView on this GameObject. ... " />
+            <marker date="1571725594343" expanded="true" signature="8959:9195" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="8985:9185" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="9041:9134" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="9208:10051" ph="/// This class provides a .photonView and all callbacks/events that PUN can call. Override the events/methods you ... " />
+            <marker date="1571725594343" expanded="true" signature="10305:23715" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="10350:10421" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="10462:10536" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="10546:11353" ph="/// Called to signal that the raw connection got established but before the client can call operation on the serv ... " />
+            <marker date="1571725594343" expanded="true" signature="11395:11415" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="11425:11911" ph="/// Called when the local user/client left a room, so the game's logic can clean up it's internal state. ... " />
+            <marker date="1571725594343" expanded="true" signature="11952:11972" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="11982:12305" ph="/// Called after switching to a new MasterClient when the current one leaves. ... " />
+            <marker date="1571725594343" expanded="true" signature="12380:12400" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="12410:12857" ph="/// Called when the server couldn't create a room (OpCreateRoom failed). ... " />
+            <marker date="1571725594343" expanded="true" signature="12938:12958" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="12968:13409" ph="/// Called when a previous OpJoinRoom call failed on the server. ... " />
+            <marker date="1571725594343" expanded="true" signature="13488:13508" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="13518:14154" ph="/// Called when this client created a room and entered it. OnJoinedRoom() will be called as well. ... " />
+            <marker date="1571725594343" expanded="true" signature="14198:14218" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="14228:14625" ph="/// Called on entering a lobby on the Master Server. The actual room-list updates will call OnRoomListUpdate. ... " />
+            <marker date="1571725594343" expanded="true" signature="14669:14689" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="14699:14992" ph="/// Called after leaving a lobby. ... " />
+            <marker date="1571725594343" expanded="true" signature="15034:15054" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="15064:15320" ph="/// Called after disconnecting from the Photon server. It could be a failure or intentional ... " />
+            <marker date="1571725594343" expanded="true" signature="15386:15406" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="15416:15727" ph="/// Called when the Name Server provided a list of regions for your title. ... " />
+            <marker date="1571725594343" expanded="true" signature="15805:15825" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="15835:16300" ph="/// Called for any update of the room-listing while in a lobby (InLobby) on the Master Server. ... " />
+            <marker date="1571725594343" expanded="true" signature="16370:16390" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="16400:17017" ph="/// Called when the LoadBalancingClient entered a room, no matter if this client created it or simply joined. ... " />
+            <marker date="1571725594343" expanded="true" signature="17060:17080" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="17090:17444" ph="/// Called when a remote player entered the room. This Player is already added to the playerlist. ... " />
+            <marker date="1571725594343" expanded="true" signature="17510:17530" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="17540:18257" ph="/// Called when a remote player left the room or became inactive. Check otherPlayer.IsInactive. ... " />
+            <marker date="1571725594343" expanded="true" signature="18322:18342" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="18352:18942" ph="/// Called when a previous OpJoinRandom call failed on the server. ... " />
+            <marker date="1571725594343" expanded="true" signature="19023:19043" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="19053:19488" ph="/// Called when the client is connected to the Master Server and ready for matchmaking and other tasks. ... " />
+            <marker date="1571725594343" expanded="true" signature="19538:19558" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="19568:20056" ph="/// Called when a room's custom properties changed. The propertiesThatChanged contains all that was set via Room. ... " />
+            <marker date="1571725594343" expanded="true" signature="20140:20160" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="20170:20662" ph="/// Called when custom player-properties are changed. Player and the changed properties are passed as object[]. ... " />
+            <marker date="1571725594343" expanded="true" signature="20754:20774" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="20784:21296" ph="/// Called when the server sent the response to a FindFriends request. ... " />
+            <marker date="1571725594343" expanded="true" signature="21372:21392" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="21402:22209" ph="/// Called when your Custom Authentication service responds with additional data. ... " />
+            <marker date="1571725594343" expanded="true" signature="22301:22321" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="22331:23221" ph="/// Called when the custom authentication failed. Followed by disconnect! ... " />
+            <marker date="1571725594343" expanded="true" signature="23300:23320" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="23330:23413" ph="/* TODO: Check if this needs to be implemented ... */" />
+            <marker date="1571725594343" expanded="true" signature="23486:23506" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="23516:23599" ph="/* TODO: Check if this needs to be implemented ... */" />
+            <marker date="1571725594343" expanded="true" signature="23689:23709" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="23722:23857" ph="/// Container class for info about a particular message, RPC or update. ... " />
+            <marker date="1571725594343" expanded="true" signature="23893:25069" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="24181:24309" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="24392:24568" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="24418:24558" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="24606:24781" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="24632:24771" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="24821:24882" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="24925:25063" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="25170:25811" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="25818:26706" ph="/// This container is used in OnPhotonSerializeView() to either provide incoming data of a PhotonView or for you  ... " />
+            <marker date="1571725594343" expanded="true" signature="26736:36034" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="27163:27227" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="27314:27423" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="27433:27542" ph="/// Creates a stream and initializes it. Used by PUN internally. ... " />
+            <marker date="1571725594343" expanded="true" signature="27605:27784" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="27700:27774" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="27855:27989" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="28067:28437" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="28120:28313" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="28485:28540" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="28665:28721" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="28853:29169" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="28895:29044" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="29312:29630" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="29354:29503" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="29764:30008" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="29807:29960" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="30144:30319" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="30423:30521" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="30531:30652" ph="/// Will read or write the value, depending on the stream's IsWriting value. ... " />
+            <marker date="1571725594343" expanded="true" signature="30699:31074" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="30741:30813" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="30830:31064" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="30905:31050" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="31084:31205" ph="/// Will read or write the value, depending on the stream's IsWriting value. ... " />
+            <marker date="1571725594343" expanded="true" signature="31250:31622" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="31292:31363" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="31380:31612" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="31455:31598" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="31632:31753" ph="/// Will read or write the value, depending on the stream's IsWriting value. ... " />
+            <marker date="1571725594343" expanded="true" signature="31801:32176" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="31843:31914" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="31931:32166" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="32006:32152" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="32186:32307" ph="/// Will read or write the value, depending on the stream's IsWriting value. ... " />
+            <marker date="1571725594343" expanded="true" signature="32353:32726" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="32395:32466" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="32483:32716" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="32558:32702" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="32736:32857" ph="/// Will read or write the value, depending on the stream's IsWriting value. ... " />
+            <marker date="1571725594343" expanded="true" signature="32904:33278" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="32946:33017" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="33034:33268" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="33109:33254" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="33288:33409" ph="/// Will read or write the value, depending on the stream's IsWriting value. ... " />
+            <marker date="1571725594343" expanded="true" signature="33454:33824" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="33496:33565" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="33582:33814" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="33657:33800" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="33834:33955" ph="/// Will read or write the value, depending on the stream's IsWriting value. ... " />
+            <marker date="1571725594343" expanded="true" signature="34001:34372" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="34043:34112" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="34129:34362" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="34204:34348" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="34382:34503" ph="/// Will read or write the value, depending on the stream's IsWriting value. ... " />
+            <marker date="1571725594343" expanded="true" signature="34550:34922" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="34592:34661" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="34678:34912" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="34753:34898" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="34932:35053" ph="/// Will read or write the value, depending on the stream's IsWriting value. ... " />
+            <marker date="1571725594343" expanded="true" signature="35100:35472" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="35142:35211" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="35228:35462" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="35303:35448" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="35482:35603" ph="/// Will read or write the value, depending on the stream's IsWriting value. ... " />
+            <marker date="1571725594343" expanded="true" signature="35653:36028" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="35695:35764" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="35781:36018" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="35856:36004" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="36072:36676" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="36123:36275" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="36149:36265" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="36324:36413" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="36572:36655" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="36683:37221" ph="/// The default implementation of a PrefabPool for PUN, which actually Instantiates and Destroys GameObjects but  ... " />
+            <marker date="1571725594343" expanded="true" signature="37267:39055" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="37494:37852" ph="///Returns an inactive instance of a networked GameObject, to be used by PUN. ... " />
+            <marker date="1571725594343" expanded="true" signature="37946:38797" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="38093:38517" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="38220:38387" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="38408:38503" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="38807:38934" ph="///Simply destroys a GameObject. ... " />
+            <marker date="1571725594343" expanded="true" signature="38985:39049" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="39214:41360" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="39430:39738" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="39577:39700" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="39831:39932" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="40012:40096" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="40305:40444" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="40653:40792" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="40989:41073" ph="{...}" />
+            <marker date="1571725594343" expanded="true" signature="41275:41354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/GameControllers/PhotonPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1572353843934" expanded="false" signature="6:113" ph="..." />
+            <marker date="1572353843934" expanded="true" signature="156:760" ph="{...}" />
+            <marker date="1572353843934" expanded="true" signature="292:679" ph="{...}" />
+            <marker date="1572353843934" expanded="true" signature="439:673" ph="{...}" />
+            <marker date="1572353843934" expanded="true" signature="737:758" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/GameControllers/PlayerMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <marker date="1570106609386" expanded="false" signature="6:96" ph="..." />
+            <marker date="1570106609386" expanded="true" signature="141:1404" ph="{...}" />
+            <marker date="1570106609386" expanded="true" signature="347:454" ph="{...}" />
+            <marker date="1570106609386" expanded="true" signature="512:627" ph="{...}" />
+            <marker date="1570106609386" expanded="true" signature="541:621" ph="{...}" />
+            <marker date="1570106609386" expanded="true" signature="654:1227" ph="{...}" />
+            <marker date="1570106609386" expanded="true" signature="698:794" ph="{...}" />
+            <marker date="1570106609386" expanded="true" signature="841:936" ph="{...}" />
+            <marker date="1570106609386" expanded="true" signature="983:1080" ph="{...}" />
+            <marker date="1570106609386" expanded="true" signature="1127:1221" ph="{...}" />
+            <marker date="1570106609386" expanded="true" signature="1254:1402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Juho/Scripts/Maze/MazeValues.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+          <folding>
+            <marker date="1572352242349" expanded="false" signature="6:96" ph="..." />
+            <marker date="1572352242349" expanded="true" signature="153:1913" ph="{...}" />
+            <marker date="1572352242349" expanded="true" signature="166:251" ph="/* This script has all the values that need to be networked ... */" />
+            <marker date="1572352242349" expanded="true" signature="952:1224" ph="{...}" />
+            <marker date="1572352242349" expanded="true" signature="1308:1911" ph="{...}" />
+            <marker date="1572352242349" expanded="true" signature="1352:1585" ph="{...}" />
+            <marker date="1572352242349" expanded="true" signature="1598:1905" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonRoom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1570101429734" expanded="true" signature="6:171" ph="..." />
+            <marker date="1570101429734" expanded="true" signature="242:2221" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="432:779" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="507:554" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="554:729" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="611:719" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="817:957" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="996:1140" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="1212:1261" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="1319:1340" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="1382:1484" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="1507:1641" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="1553:1584" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="1708:1842" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="1797:1836" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="1876:2219" ph="{...}" />
+            <marker date="1570101429734" expanded="true" signature="1887:2085" ph="/* Creates player network controller(?) but not player character ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/GameControllers/GameSetup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <marker date="1570105469243" expanded="false" signature="6:92" ph="..." />
+            <marker date="1570105469243" expanded="true" signature="132:391" ph="{...}" />
+            <marker date="1570105469243" expanded="true" signature="290:389" ph="{...}" />
+            <marker date="1570105469243" expanded="true" signature="330:383" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Master/Scripts/Network/PhotonLobby.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <marker date="1572599990531" expanded="false" signature="6:119" ph="..." />
+            <marker date="1572599990531" expanded="true" signature="173:2602" ph="{...}" />
+            <marker date="1572599990531" expanded="true" signature="383:587" ph="{...}" />
+            <marker date="1572599990531" expanded="true" signature="658:752" ph="{...}" />
+            <marker date="1572599990531" expanded="true" signature="801:1368" ph="{...}" />
+            <marker date="1572599990531" expanded="true" signature="1408:1575" ph="{...}" />
+            <marker date="1572599990531" expanded="true" signature="1655:1784" ph="{...}" />
+            <marker date="1572599990531" expanded="true" signature="1816:2096" ph="{...}" />
+            <marker date="1572599990531" expanded="true" signature="2176:2315" ph="{...}" />
+            <marker date="1572599990531" expanded="true" signature="2357:2521" ph="{...}" />
+            <marker date="1572599990531" expanded="true" signature="2579:2600" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
